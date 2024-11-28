@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\vize__projesi\vize__projesi\bin\Debug\vize__projesi.exe.config
+C:\Users\user\source\repos\vize__projesi\vize__projesi\bin\Debug\vize__projesi.exe
+C:\Users\user\source\repos\vize__projesi\vize__projesi\bin\Debug\vize__projesi.pdb
+C:\Users\user\source\repos\vize__projesi\vize__projesi\obj\Debug\vize__projesi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\vize__projesi\vize__projesi\obj\Debug\vize__projesi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vize__projesi\vize__projesi\obj\Debug\vize__projesi.exe
+C:\Users\user\source\repos\vize__projesi\vize__projesi\obj\Debug\vize__projesi.pdb
